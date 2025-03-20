@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kush-316&show_icons=true&theme=tokyonight&locale=en" alt="kush-316" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kush-316&theme=dark" alt="kush-316" /></p>
