@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kush-316" alt="kush-316" /></a> </p>
 
-
 - 🔭 I’m currently working on **Go Projects**
 
 - 🌱 I’m currently learning **Go, Java, and React**
@@ -27,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kush-316&show_icons=true&theme=tokyonight&locale=en" alt="kush-316" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kush-316&theme=dark" alt="kush-316"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kush-316&theme=dark" alt="kush-316" /></p>
