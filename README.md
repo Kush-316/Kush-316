@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kush-316&label=Profile%20views&color=0e98b4&style=flat-square" alt="kush-316" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kush-316" alt="kush-316" /></a> </p>
-
 - 🔭 I’m currently working on **Go Projects**
 
 - 🌱 I’m currently learning **Go, Java, and React**
